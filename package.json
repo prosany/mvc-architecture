@@ -1,0 +1,11 @@
+{
+  "name": "mvc-architecture",
+  "version": "1.0.0",
+  "description": "This is mvc architecture model",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahabub Hasan Sany",
+  "license": "ISC"
+}
